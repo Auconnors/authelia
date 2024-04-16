@@ -19,7 +19,18 @@ Mise à jour de la doc officiel qui ne marche pas pour une correction opération
 8. Allez dans Catalog.
 9. Sélectionnez SSO Authenticationdans dans Authentication.
 10. Cliquez sur installé.
-11. Cliquez Okpour confirmer l'installation du plugin
+11. Cliquez Ok pour confirmer l'installation du plugin
 12. Une fois installé, redémarrez Jellyfin.
+
+
+## Configuration
+![Capture d'écran 1](jellyfinpart1.png)
+
+![Capture d'écran 1](jellyfinpart2.png)
+
+## Contribuer
+
+Auconnors
+
 
 
