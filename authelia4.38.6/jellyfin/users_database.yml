@@ -1,0 +1,7 @@
+users:
+    example:
+        password: $argon2id$v=19$m=65536,t=3,p=4$r4yCa7d1TdddfhfhjfjkjikfihfihifQuTbWhxHjlhJ2IETbE4
+        displayname: Example
+        email: jimmy@bunker.vpn
+        groups: [jellyfin-users] #Ajouter la permission jellyfin-user
+        disabled: false
